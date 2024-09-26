@@ -64,7 +64,7 @@ const LeftNav: React.FC<NavProps> = ({ open, setOpen, cards }) => {
                             <ListItemButton>
                                 <ListItemIcon>
                                     <Image
-                                        src={`${process.env.NEXT_PUBLIC_BASE_URL}/swudb.png`}
+                                        src={`/swu-ccs/swudb.png`}
                                         alt="swudb"
                                         height={24}
                                         width={24}
